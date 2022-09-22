@@ -1,9 +1,14 @@
 h1{
-  color: black;
+  
   font-family: 'Playfair Display' serif;
   font-weight: bold;
 }
 p{
   font-family: 'Poppins' sans-serif;
   font-weight: normal;
+}
+body{
+  color: white;
+  background-color: black;
+  background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
 }
