@@ -20,6 +20,9 @@ p{
   font-size: 16px;
   line-height: 30px;
 }
+a{
+  transition: all 100ms ease-in-out;
+}
 body{
   color: white;
   background-color: black;
@@ -89,6 +92,11 @@ img{
 }
 .navbar-logo{
   width: 50px;
+}
+footer .social-links a{
+  margin: 0 30px;
+  color: white;
+  font-size: 30px; 
 }
 @media(max-width:960px){
   h1{
